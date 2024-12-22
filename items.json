@@ -30,6 +30,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ProCodersEg/premGifts/refs/heads/main/6.png"
   },
   {
+    "title": "gift7",
+    "price": "1600 Coins",
+    "imageUrl": "https://raw.githubusercontent.com/ProCodersEg/premGifts/refs/heads/main/7.png"
+  },
+  {
     "title": "gift8",
     "price": "80 Coins",
     "imageUrl": "https://raw.githubusercontent.com/ProCodersEg/premGifts/refs/heads/main/8.png"
@@ -113,15 +118,6 @@
     "title": "gift24",
     "price": "240 Coins",
     "imageUrl": "https://raw.githubusercontent.com/ProCodersEg/premGifts/refs/heads/main/24.png"
-  },
-  {
-    "title": "gift25",
-    "price": "250 Coins",
-    "imageUrl": "https://raw.githubusercontent.com/ProCodersEg/premGifts/refs/heads/main/25.png"
-  },
-  {
-    "title": "gift26",
-    "price": "260 Coins",
-    "imageUrl": "https://raw.githubusercontent.com/ProCodersEg/premGifts/refs/heads/main/26.png"
+  }
   }
 ]
